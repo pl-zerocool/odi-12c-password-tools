@@ -1,0 +1,3 @@
+args4j-2.33.jar (https://repo1.maven.org/maven2/args4j/args4j/2.33/args4j-2.33.jar)
+commons-codec-1.11.jar (https://repo1.maven.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar)
+odi-core.jar (<ORACLE_HOME>/odi/sdk/lib/odi-core.jar)

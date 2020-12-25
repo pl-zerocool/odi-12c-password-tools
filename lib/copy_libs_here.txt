@@ -1,0 +1,2 @@
+odi-core.jar (<ORACLE_HOME>/odi/sdk/lib/odi-core.jar)
+odi-standalone-agent.jar (<ORACLE_HOME>/odi/agent/lib/odi-standalone-agent.jar)
