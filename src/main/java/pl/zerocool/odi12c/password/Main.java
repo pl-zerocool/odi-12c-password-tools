@@ -120,11 +120,12 @@ public class Main {
      * @param parser options parser
      */
     private static void printHelp(CmdLineParser parser) {
-        System.out.println("ODI tools");
-        System.out.println("In order to obtain encryption parameters run 'select ENC_ALG, ENC_KEY_LEN, ENC_KEY, ENC_IV from SNP_LOC_REP' in ODI REPO.");
+        System.out.println("Oracle Data Integrator 12c Password Tools");
         System.out.println();
         System.out.println("Usage:");
         parser.printUsage(System.out);
+        System.out.println();
+        System.out.println("In order to obtain encryption parameters run 'select ENC_ALG, ENC_KEY_LEN, ENC_KEY, ENC_IV from SNP_LOC_REP' in ODI REPO.");
         System.out.println();
         System.out.println("Examples:");
         System.out.println("[java invocation] -help");
